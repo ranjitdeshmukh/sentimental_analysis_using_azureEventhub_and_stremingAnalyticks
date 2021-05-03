@@ -1,0 +1,1 @@
+# sentimental_analysis_using_azureEventhub_and_stremingAnalyticks
