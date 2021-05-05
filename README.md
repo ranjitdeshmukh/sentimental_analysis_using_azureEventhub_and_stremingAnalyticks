@@ -24,12 +24,7 @@ this process divide three part
 
 
 
- # Information about other files
- - dataset/positive-words.txt: List of positive words.
- - dataset/negative-words.txt: List of negative words.
- - dataset/glove-seeds.txt: GloVe words vectors from StanfordNLP which match our dataset for seeding word embeddings.
- - Plots.ipynb: IPython notebook used to generate plots present in report.
-  
+
 
 
 ![hdinsight-spark-structured-streaming](https://user-images.githubusercontent.com/45007910/117092288-7b879d80-ad7b-11eb-861f-c6a0c4c83dc4.png)
