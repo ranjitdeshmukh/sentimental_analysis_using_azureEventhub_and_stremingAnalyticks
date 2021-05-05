@@ -30,4 +30,6 @@ this process divide three part
 ![hdinsight-spark-structured-streaming](https://user-images.githubusercontent.com/45007910/117092288-7b879d80-ad7b-11eb-861f-c6a0c4c83dc4.png)
 
 
-
+## Ref
+ -youtube.com/watch?v=_q_VsIqWoeU&list=PLjNd3r1KLjQvi8p21uS522Xi3qEiFQH2r&index=6
+-https://stackoverflow.com/questions/
