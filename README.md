@@ -31,5 +31,4 @@ this process divide three part
 
 
 ## Ref
- -youtube.com/watch?v=_q_VsIqWoeU&list=PLjNd3r1KLjQvi8p21uS522Xi3qEiFQH2r&index=6
--https://stackoverflow.com/questions/
+https://www.youtube.com/watch?v=sftAlfqbkBY
